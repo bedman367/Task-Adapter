@@ -98,3 +98,13 @@ If you find our code useful, please consider citing our work using the bibtex:
   year={2024}
 }
 ```
+
+# References
+
+Our project builds upon several existing publicly available code. Specifically, we have modified and integrated the following code into this project:
+- [https://github.com/MCG-NJU/FSL-Video](https://github.com/MCG-NJU/FSL-Video)
+- [https://github.com/wyharveychen/CloserLookFewShot](https://github.com/wyharveychen/CloserLookFewShot)
+- [https://github.com/liu-zhy/temporal-adaptive-module](https://github.com/liu-zhy/temporal-adaptive-module)
+- [https://github.com/linziyi96/st-adapter](https://github.com/linziyi96/st-adapter)
+- [https://github.com/taoyang1122/adapt-image-models](https://github.com/taoyang1122/adapt-image-models)
+- [https://github.com/alibaba-mmai-research/CLIP-FSAR](https://github.com/alibaba-mmai-research/CLIP-FSAR)
